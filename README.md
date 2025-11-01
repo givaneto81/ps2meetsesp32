@@ -1,4 +1,4 @@
-# ESP32-PS2-XInput
+# PS2MEETSESP32
 
 Este projeto transforma um controle de PlayStation 2 (DualShock 2) em um controle XInput (Xbox 360) virtual para PC, utilizando um ESP32.
 
