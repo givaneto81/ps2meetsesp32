@@ -1,0 +1,13 @@
+# VSCode
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pids/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
